@@ -1,6 +1,20 @@
-- 👋 Hi, my name is Ana Gabriela, i'm 23 years old and i'm a web developer, a technical nurse and i'm graduating in Biological Sciences.
+- 👋 Hi, my name is Ana Gabriela, i'm 23 years old and i'm a web developer in career transition.
 
-I have knowledge of the technologies: Advanced HTML; Advanced in CSS; Advanced in React; Average in JavaScript; Average in Python; Median in Node; Average in Scrum; Basic in Postgres; Basics in Docker; Basic in TypeScript.
+I have knowledge of the technologies:
+● Advanced HTML
+● Advanced in CSS
+● Advanced in React
+● Median in Material-UI
+● Median in Tailwind
+● Average in JavaScript
+● Average in Python
+● Median in Node
+● Average in Scrum
+● Average in Client in Apollo
+● Basic in Postgres
+● Basics in Docker
+● Basic in TypeScript
+● Basics in GraphCMS
 
 Bootcamp:
 - [Maratona Explorer - Rocketseat]: With the advice of Professor Mayk, i was able to learn basic programming concepts, which i didn't have contact with before because i'm in career transition, learning programming by myself.
