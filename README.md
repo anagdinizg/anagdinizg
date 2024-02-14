@@ -1,3 +1,3 @@
-I'm Ana, I'm 24 years old, I'm a nursing technician, I almost became a biologist and, currently, I'm a web developer majoring in Information Systems.
+I'm Ana, I'm 24 years old and I'm a web developer majoring in Information Systems.
 
 I currently work in the development area in two internships in different companies simultaneously. A company is focused on civil engineering and I have been working there as a full-stack for almost 1 and a half years, using Next, Typescript, Material UI technologies on the frontend and Nest on the backend, with MongoDB. The other company is focused on the furniture market and I have been working as a front-end for 1 year and use Next, Typescript, Tailwind as front-end technology and we also use MongoDB and Nest on the backend.
