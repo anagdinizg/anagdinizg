@@ -1,4 +1,3 @@
-Sou a Ana, tenho 24 anos, sou técnica de enfermagem, quase me tornei uma bióloga e, atualmente, sou desenvolvedora web graduanda em Sistemas de Informação. 
+I'm Ana, I'm 24 years old, I'm a nursing technician, I almost became a biologist and, currently, I'm a web developer majoring in Information Systems.
 
-Atualmente atuo na área de desenvolvimento em dois estágios em empresas diferentes simultaneamente. Uma empresa é voltada para a engenharia civil e nela eu atuo como full-stack há quase 1 ano e meio, utilizando no frontend as tecnologias Next, Typescript, Material UI e no backend o Nest, com o MongoDB. A outra empresa é voltada para o mercado mobiliário e eu atuo como front-end há 1 ano e utilizo como tecnologia no frontend o Next, Typescript, Tailwind e também utilizamos o MongoDB e o Nest no backend.
-
+I currently work in the development area in two internships in different companies simultaneously. A company is focused on civil engineering and I have been working there as a full-stack for almost 1 and a half years, using Next, Typescript, Material UI technologies on the frontend and Nest on the backend, with MongoDB. The other company is focused on the furniture market and I have been working as a front-end for 1 year and use Next, Typescript, Tailwind as front-end technology and we also use MongoDB and Nest on the backend.
