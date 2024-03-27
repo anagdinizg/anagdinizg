@@ -17,5 +17,3 @@ Let's Connect:
 📧 Email: anagabriela0399@hotmail.com
 
 Whether you're a fellow beginner, a seasoned professional, or simply curious about coding, I'm here to learn, share, and grow together. Reach out, and let's embark on this journey of discovery hand in hand.
-
-Welcome to Ana's humble abode in the digital landscape – where every keystroke marks a step forward in the journey of programming. 🌱
