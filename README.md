@@ -1,6 +1,4 @@
-Ana's Profile
-
-👋 Welcome to Ana G. Diniz's corner of the digital world, where simplicity meets passion and growth is embraced.
+👋 Welcome to Ana's corner of the digital world, where simplicity meets passion and growth is embraced.
 
 About Me:
 
