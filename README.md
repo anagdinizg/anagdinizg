@@ -1,19 +1,28 @@
-👋 Welcome to Ana's corner of the digital world, where simplicity meets passion and growth is embraced.
+# Ana's Developer Portfolio
 
-About Me:
+## Introduction
 
-I'm Ana, a humble and introverted individual, finding solace and joy in the world of programming. With less than two years of experience under my belt, I'm on a journey of discovery and continuous learning in the realm of frontend development.
+Welcome to my GitHub repository! My name is Ana, a 25-year-old Brazilian currently pursuing a degree in Information Systems. I have a passion for programming, which started as a self-taught journey. After discovering my affinity for the field, I decided to pursue a formal education in Information Systems to deepen my knowledge and skills.
 
-Here, you'll find my humble beginnings and ongoing progress in the world of coding. From simple projects to modest experiments, each step reflects my dedication to mastering the craft of frontend development.
+## Background
 
-LinkedIn Profile:
+Throughout my academic and professional journey, I've had the opportunity to explore various aspects of software development. I've interned at two different organizations, one focusing on frontend development and the other on full-stack development. These experiences provided me with invaluable hands-on experience and insight into the industry.
 
-🔗 LinkedIn
+## Current Role
 
-Connect with me on LinkedIn, where I humbly share my journey, seek guidance, and embrace opportunities to grow. Let's connect in a space where mentorship and camaraderie foster growth and learning.
+Currently, I am employed as a Frontend Developer at a Japanese software house. In this role, I engage in daily communication with my multinational team, where English serves as our primary language. Our projects predominantly utilize React and Vue, allowing me to further strengthen my expertise in these technologies.
 
-Let's Connect:
+## Skills and Technologies
 
-📧 Email: anagabriela0399@hotmail.com
+- Experienced in React.js and Next.js for frontend development.
+- Beginner level proficiency in Vue.js.
+- Basic understanding of Nest.js for backend development.
+- Skilled in using Tailwind CSS for responsive UI development.
+- Familiarity with React Components for building reusable UI elements.
+- Continuous learning and improvement mindset.
 
-Whether you're a fellow beginner, a seasoned professional, or simply curious about coding, I'm here to learn, share, and grow together. Reach out, and let's embark on this journey of discovery hand in hand.
+## Let's Connect!
+
+I'm always eager to connect with fellow developers, share insights, and collaborate on exciting projects. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/anagdinizp/) or explore my projects on [GitHub](https://github.com/anagdinizp). Let's code and learn together!
+
+Thank you for visiting!
