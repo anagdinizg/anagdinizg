@@ -1,28 +1,32 @@
 # Ana's Developer Portfolio
 
-## Introduction
+I am a graduating Information Systems student from Facisa University with a passion for web development and experience in challenging projects, especially in the frontend area. I am a dedicated, proactive, and self-taught professional. I adapt quickly to new technologies and methodologies, always seeking to improve my skills and deliver high-quality projects on time.
 
-Welcome to my GitHub repository! My name is Ana, a 25-year-old Brazilian currently pursuing a degree in Information Systems. I have a passion for programming, which started as a self-taught journey. After discovering my affinity for the field, I decided to pursue a formal education in Information Systems to deepen my knowledge and skills.
+— Experience
 
-## Background
+• Frontend Web Developer at Ingate: Currently working remotely at Ingate, a Japanese software house. One of the highlights of this company is the communication in English with the development, product, and design team, which allows me to improve my language skills and broaden my professional horizons.
 
-Throughout my academic and professional journey, I've had the opportunity to explore various aspects of software development. I've interned at two different organizations, one focusing on frontend development and the other on full-stack development. These experiences provided me with invaluable hands-on experience and insight into the industry.
+• Frontend Web Developer at Locale Imóveis: I worked for 1 year and 3 months at Locale Imóveis, a startup from Rio Grande do Sul, also remotely. This experience provided me with contact with innovative projects and taught me how to work in an agile and collaborative way.
 
-## Current Role
+• Fullstack Web Developer at JBR Engenharia: I worked for 1 year and 7 months at JBR Engenharia, in partnership with LEP (Pavement Engineering Laboratory). This experience allowed me to develop backend skills and become familiar with fullstack development.
 
-Currently, I am employed as a Frontend Developer at a Japanese software house. In this role, I engage in daily communication with my multinational team, where English serves as our primary language. Our projects predominantly utilize React and Vue, allowing me to further strengthen my expertise in these technologies.
+— Key Skills
 
-## Skills and Technologies
+• Frontend: React, Next, Vue, JavaScript, TypeScript, Firebase, Design Systems: Material UI, Ant Design, Tailwind CSS, Creation of reusable components, Creation of responsive screens
 
-- Experienced in React.js and Next.js for frontend development.
-- Beginner level proficiency in Vue.js.
-- Basic understanding of Nest.js for backend development.
-- Skilled in using Tailwind CSS for responsive UI development.
-- Familiarity with React Components for building reusable UI elements.
-- Continuous learning and improvement mindset.
+• Backend: Node.js, Express.js, Firebase
 
-## Let's Connect!
+• Databases:
+ ◦ Relational: MySQL, PostgreSQL
+ ◦ NoSQL: MongoDB
 
-I'm always eager to connect with fellow developers, share insights, and collaborate on exciting projects. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/anagdinizp/) or explore my projects on [GitHub](https://github.com/anagdinizp). Let's code and learn together!
+• Agile Methodologies: Scrum and Kanban
 
-Thank you for visiting!
+• Version Control: Git
+
+— Contact
+
+If you are looking for a frontend web developer, please contact me!
+
+Email: anagabriela240399@gmail.com
+LinkedIn: https://www.linkedin.com/in/anagdinizp/
