@@ -1,6 +1,6 @@
 # Ana's Developer Portfolio
 
-I am a graduating Information Systems student from Facisa University with a passion for web development and experience in challenging projects, especially in the frontend area. I am a dedicated, proactive, and self-taught professional. I adapt quickly to new technologies and methodologies, always seeking to improve my skills and deliver high-quality projects on time.
+I am a graduating Information Systems student from Facisa University with a passion for web development and experience in challenging projects, especially in the frontend area. I adapt quickly to new technologies and methodologies, always seeking to improve my skills and deliver high-quality projects on time.
 
 — Experience
 
