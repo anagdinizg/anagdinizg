@@ -29,4 +29,4 @@ I am a graduating Information Systems student from Facisa University with a pass
 If you are looking for a frontend web developer, please contact me!
 
 Email: anagabriela240399@gmail.com
-LinkedIn: https://www.linkedin.com/in/anagdinizp/
+LinkedIn: https://www.linkedin.com/in/anagdinizg/
