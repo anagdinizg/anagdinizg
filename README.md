@@ -5,11 +5,11 @@ Passionate web developer graduating from Facisa University (Information Systems)
 
 — Experience:
 
-• Frontend Web Developer (Remote) at Ingate (Japan): Improved English communication & broadened horizons working with international teams across development, product, and design.
+• Frontend Web Developer (Remote - Japan) at Ingate (5 months - now): Improved English communication & broadened horizons working with international teams across development, product, and design.
 
-• Frontend Web Developer (Remote) at Locale Imóveis (1 year 3 months): Gained experience with innovative projects and embraced agile, collaborative work.
+• Frontend Web Developer (Remote - Brazil) at Locale Imóveis (1 year 3 months): Gained experience with innovative projects and embraced agile, collaborative work.
 
-• Fullstack Web Developer (Remote) at JBR Engenharia (1 year 7 months): Developed backend skills and gained fullstack experience.
+• Fullstack Web Developer (Remote - Brazil) at JBR Engenharia (1 year 7 months): Developed backend skills and gained fullstack experience.
 
 
 — Skills:
