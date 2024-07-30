@@ -1,7 +1,7 @@
 [pt-br]
 Sou desenvolvedora web com 25 anos, graduanda em Sistemas de Informação e adoro criar interfaces intuitivas e atrativas. Sou dedicada, apaixonada por tecnologia e busco sempre me aprimorar. Vamos construir juntos soluções digitais inovadoras!
 
-— Contato: [anagabriela240399@gmail.com] or [https://www.linkedin.com/in/anagdinizg/]
+— Contato: [anagabriela240399@gmail.com] ou [https://www.linkedin.com/in/anagdinizg/]
 
 
 [en]
