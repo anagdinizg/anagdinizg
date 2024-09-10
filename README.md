@@ -11,9 +11,7 @@ Desenvolvedora web apaixonada por criar interfaces intuitivas e atrativas! Sou g
 * **Metodologias:** ⚡ Agile |  Scrum
 
 **O que eu amo:**
-* ☕ Café e Pizza
-*  Aprender coisas novas
-*  Assistir, dormir e jogar
+* Café, pizza, aprender coisas novas, assistir, dormir e jogar
 
 **Vamos construir o futuro juntos!** 
 
@@ -32,9 +30,7 @@ I'm a passionate web developer who loves crafting intuitive and engaging user in
 * **Methodologies:** ⚡ Agile |  Scrum
 
 **I love:**
-* ☕ Coffee and pizza
-*  Learning new things
-*  Gaming and chilling with series
+* Coffee, pizza, learning new things, gaming and chilling with series
 
 **Let's build the future together!**
 
