@@ -33,8 +33,8 @@ I'm a passionate web developer who loves crafting intuitive and engaging user in
 
 **I love:**
 * ☕ Coffee and pizza
-*   Learning new things
-*   Gaming and chilling with series
+* Learning new things
+* Gaming and chilling with series
 
 **Let's build the future together!**
 
