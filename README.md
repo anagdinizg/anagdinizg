@@ -1,32 +1,13 @@
-[pt-br]
-Sou uma desenvolvedora web apaixonada por criar interfaces intuitivas e visualmente atraentes. Atualmente, sou graduanda em Sistemas de Informação e estou sempre em busca de explorar novas tecnologias e desafios.
+Oi, tudo bem? Sou a Ana, tenho 26 anos, sou graduanda em Sistemas de Informação e sou uma desenvolvedora frontend com mais de 2 anos de experiência em projetos nacionais e internacionais, especializada em criar aplicações escaláveis, acessíveis e de alta performance. Tenho forte atuação em arquitetura de microfrontends e ampla vivência em ambientes ágeis, multiculturais e remotos. Meu foco é entregar soluções de qualidade, com código limpo, testes automatizados e integração contínua, sempre alinhada às melhores práticas do mercado.
 
-**Habilidades**
-*  **Front-end**: ⚛️ React.js | ⚡ Next.js | Vue.js | Vanilla JS | HTML5 | CSS3 | ☕️ TypeScript | Tailwind CSS | Styled Components | Material UI | Ant Design | Atomic Design
-*  **Microfrontends**: Construção de aplicações escaláveis e modulares
-*  **Testes**: ✅ Jest | Vue Test Utils | Cucumber | Ruby | JUnit | Mockito
-*  **Back-end**: Nest.js | Express.js | ☕ Java | Python | ☁️ Firebase | MongoDB
-*  **Ferramentas**: Vitest | Storybook | SEO | Figma | Git
-*  **Metodologias**: ⚡ Agile | Scrum
+Principais habilidades e tecnologias:
 
-**O que eu amo**
-*  Café, pizza, aprender coisas novas, assistir a séries, descansar e jogar.
+• Frontend: Vue.js, React.js, Next.js, TypeScript, Tailwind CSS, Styled-components, Material UI, Ant Design
+• Backend: Nest.js, Express.js, Firebase, MongoDB
+• Arquitetura e DevOps: Microfrontends, deploy e gerenciamento em Azure, containerização com Docker, orquestração de pods com Kubernetes, trunk-based development
+• Versionamento e colaboração: Git, metodologias ágeis (Scrum), trabalho em times remotos e multiculturais
+• Testes automatizados: Testes unitários com Jest e Vue Test Utils, testes de integração com Cypress, testes de aceitação com Cucumber, testes cross-browser
+• Design e documentação: Storybook, integração com Design Systems via Figma
+• Análise e monitoramento: Envio de eventos para Google Analytics via tagueamento
 
-— Contato: anagabriela240399@gmail.com | linkedin.com/in/anagdinizg
-
-
-[en]
-I'm a passionate web developer who loves crafting intuitive and visually appealing interfaces. Currently an Information Systems undergraduate, I'm always eager to dive into new technologies and challenges.
-
-**Skills**
-*  **Frontend**: ⚛️ React.js | ⚡ Next.js | Vue.js | Vanilla JS | HTML5 | CSS3 | ☕️ TypeScript | Tailwind CSS | Styled Components | Material UI | Ant Design | Atomic Design
-*  **Microfrontends**: Building scalable and modular applications
-*  **Testing**: ✅ Jest | Vue Test Utils | Cucumber | Ruby | JUnit | Mockito
-*  **Backend**: Nest.js | Express.js | ☕ Java | Python | ☁️ Firebase | MongoDB
-*  **Tools**: Vitest | Storybook | SEO | Figma | Git
-*  **Methodologies**: ⚡ Agile | Scrum
-
-**What I Love**
-*  Coffee, pizza, learning new things, watching series, relaxing, and gaming.
-
-— Contact: anagabriela240399@gmail.com | linkedin.com/in/anagdinizg
+— Contato: anagabrieladinizgusmao@gmail.com | linkedin.com/in/anagdinizg
