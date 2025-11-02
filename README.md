@@ -3,17 +3,11 @@ Oi, tudo bem? Sou a Ana, tenho 26 anos, sou graduanda em Sistemas de Informaçã
 Principais habilidades e tecnologias:
 
 • Frontend: Vue.js, React.js, Next.js, TypeScript, Tailwind CSS, Styled-components, Material UI, Ant Design
-
-• Backend: Nest.js, Express.js, Firebase, MongoDB
-
-• Arquitetura e DevOps: Microfrontends, deploy e gerenciamento em Azure, containerização com Docker, orquestração de pods com Kubernetes, trunk-based development
-
+• Backend: Nest.js, Java, Express.js, Firebase, MongoDB
+• Arquitetura e DevOps: Microfrontends, Microsserviços, deploy e gerenciamento em Azure, containerização com Docker, orquestração de pods com Kubernetes, trunk-based development
 • Versionamento e colaboração: Git, metodologias ágeis (Scrum), trabalho em times remotos e multiculturais
-
-• Testes automatizados: Testes unitários com Jest e Vue Test Utils, testes de integração com Cypress, testes de aceitação com Cucumber, testes cross-browser
-
+• Testes automatizados: Testes unitários com Jest e Vue Test Utils, JUnit, testes de integração com Cypress, testes de aceitação com Cucumber, testes cross-browser
 • Design e documentação: Storybook, integração com Design Systems via Figma
-
 • Análise e monitoramento: Envio de eventos para Google Analytics via tagueamento
 
 — Contato: anagabrieladinizgusmao@gmail.com | linkedin.com/in/anagdinizg
